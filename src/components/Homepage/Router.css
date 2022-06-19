@@ -1,0 +1,22 @@
+.greet{
+    text-align: center;
+    color:rgb(128, 224, 72);
+    margin: 50px;
+    font-size: 26px;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    text-align: center;
+}
+.btns{
+    margin:10px;
+}
+.nav{
+    color: white;
+}
+.signup{
+    text-align: center;
+}
+
